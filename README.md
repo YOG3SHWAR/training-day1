@@ -1,5 +1,5 @@
 # Training Day 1
-## git commands used
+### git commands used
 1. `git config --list`
 2. `git pull`
 3. `git status`
@@ -14,4 +14,6 @@
 12. `git rm --cached <filename>`
 13. `git push`
 14. `git push --set-upstream master`
+
+### Created a job on jenkins
 
